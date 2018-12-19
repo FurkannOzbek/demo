@@ -4,7 +4,7 @@
     { "id": 2, "name": "Cinemaximum", "img.path": "http://www.gordion-avm.com/media/image/3RJ8XQ4US3KDRX.png"},
     { "id": 3, "name": "Cinecity", "img.path":"https://bjournal.co/wp-content/uploads/2016/06/cinecity.png" }
   ]
-  "theaters": [
+  "theaters2": [
     { "id": 4, "name": "Cinemarine", "img.path": "https://simg01.imgsinemalar.com/img/brandedTheaters/cinemarine.png" },
     { "id": 5, "name": "Cinemaximum", "img.path": "http://www.gordion-avm.com/media/image/3RJ8XQ4US3KDRX.png"},
     { "id": 6, "name": "Cinecity", "img.path":"https://bjournal.co/wp-content/uploads/2016/06/cinecity.png" }
