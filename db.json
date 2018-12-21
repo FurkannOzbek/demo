@@ -1,16 +1,27 @@
-{
-	"1": {
-		"id": 1,
-		"name": "HellBoy",
-		"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/hellboy-poster.jpg",
-		"overview": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge."
-
-	},
-	"2": {
-
-		"name": "Taken",
-		"imgpath": "https://www.joblo.com/assets/images/oldsite/posters/images/full/2009-taken-1.jpg",
-		"overview": "A former spy (Neeson) relies on his old skills to save his estranged daughter (Grace), who has been forced into the slave trade.",
-		"id": 2
-	}
-}
+[{
+	"id": 1,
+	"movies": [{
+			"name": "HellBoy",
+			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/hellboy-poster.jpg",
+			"overview": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge."
+		},
+		{
+			"name": "HellBoy",
+			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/hellboy-poster.jpg",
+			"overview": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge."
+		}
+	]
+}, {
+	"id": 2,
+	"movies": [{
+			"name": "Taken",
+			"imgpath": "https://www.joblo.com/assets/images/oldsite/posters/images/full/2009-taken-1.jpg",
+			"overview": "A former spy (Neeson) relies on his old skills to save his estranged daughter (Grace), who has been forced into the slave trade."
+		},
+		{
+			"name": "Taken",
+			"imgpath": "https://www.joblo.com/assets/images/oldsite/posters/images/full/2009-taken-1.jpg",
+			"overview": "A former spy (Neeson) relies on his old skills to save his estranged daughter (Grace), who has been forced into the slave trade."
+		}
+	]
+}]
