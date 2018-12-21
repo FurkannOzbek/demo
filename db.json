@@ -1,41 +1,162 @@
 {
-	"1": [{		"id": 1,
-			"name": "HellBoy",
-			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/hellboy-poster.jpg",
-			"overview": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge."
+	"1": {
+		"adult": false,
+		"backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+		"belongs_to_collection": {
+			"id": 9485,
+			"name": "The Fast and the Furious Collection",
+			"poster_path": "/mCkqJf4ijbNoBWvJ0RTWZJuhJUA.jpg",
+			"backdrop_path": "/z5A5W3WYJc3UVEWljSGwdjDgQ0j.jpg"
 		},
-		{	"id": 1,
-			"name": "St-Agatha",
-			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/St-Agatha-poster-1.jpg",
-			"overview": "Saint Agatha is the patron saint of breast cancer; her feast day is celebrated each year on February 5th. Born in the third century to a noble family in Sicily, Agatha was a very beautiful woman, She refused marriage proposals from many suitors having dedicated her life to God at a very early age."
+		"budget": 250000000,
+		"genres": [{
+				"id": 28,
+				"name": "Action"
+			},
+			{
+				"id": 80,
+				"name": "Crime"
+			},
+			{
+				"id": 53,
+				"name": "Thriller"
+			}
+		],
+		"homepage": "http://www.fastandfurious.com/",
+		"id": 1,
+		"imdb_id": "tt4630562",
+		"original_language": "en",
+		"original_title": "The Fate of the Furious",
+		"overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+		"popularity": 75.8251,
+		"poster_path": "/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg",
+		"production_companies": [{
+				"name": "Universal Pictures",
+				"id": 33
+			},
+			{
+				"name": "Original Film",
+				"id": 333
+			},
+			{
+				"name": "One Race Films",
+				"id": 7154
+			}
+		],
+		"production_countries": [{
+			"iso_3166_1": "US",
+			"name": "United States of America"
+		}],
+		"release_date": "2017-04-12",
+		"revenue": 0,
+		"runtime": 136,
+		"spoken_languages": [{
+			"iso_639_1": "en",
+			"name": "English"
+		}],
+		"status": "Released",
+		"tagline": "Family no more",
+		"title": "The Fate of the Furious",
+		"video": false,
+		"vote_average": 6.9,
+		"vote_count": 1114,
+		"videos": {
+			"results": [{
+					"id": "58f33203c3a368086700ede3",
+					"iso_639_1": "en",
+					"iso_3166_1": "US",
+					"key": "vve9TtFg9wM",
+					"name": "Official Trailer Tease",
+					"site": "YouTube",
+					"size": 1080,
+					"type": "Teaser"
+				},
+				{
+					"id": "58f33221c3a368086700edf5",
+					"iso_639_1": "en",
+					"iso_3166_1": "US",
+					"key": "JwMKRevYa_M",
+					"name": "Official Trailer",
+					"site": "YouTube",
+					"size": 1080,
+					"type": "Trailer"
+				},
+				{
+					"id": "58f3323e9251413d9500e7c7",
+					"iso_639_1": "en",
+					"iso_3166_1": "US",
+					"key": "-9FU7Ia-BKg",
+					"name": "Big Game Spot (Super Bowl)",
+					"site": "YouTube",
+					"size": 1080,
+					"type": "Teaser"
+				},
+				{
+					"id": "58f332559251413d8400e760",
+					"iso_639_1": "en",
+					"iso_3166_1": "US",
+					"key": "jeKBMdYaM3U",
+					"name": "Official Trailer 2",
+					"site": "YouTube",
+					"size": 1080,
+					"type": "Trailer"
+				}
+			]
 		},
-		{	"id": 1,
-			"name": "Alita",
-			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/alita-poster3-xl.jpg",
-			"overview": "A woman wakes up to realize she has no memory of who she is, but discovers she's skilled at martial arts. She uses her skills to become a bounty hunter and hunt criminals."
-		}
-	],
-	"2": [{		"id":2,
-			"name": "Taken",
-			"imgpath": "https://www.joblo.com/assets/images/oldsite/posters/images/full/2009-taken-1.jpg",
-			"overview": "A former spy (Neeson) relies on his old skills to save his estranged daughter (Grace), who has been forced into the slave trade."
-		},
-		{	"id": 2,
-			"name": "Godzilla",
-			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/Godzilla-2-Ghidorah.jpg",
-			"overview": "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity."
-		},
-		{	"id": 2,
-			"name": "St-Agatha",
-			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/St-Agatha-poster-1.jpg",
-			"overview": "Saint Agatha is the patron saint of breast cancer; her feast day is celebrated each year on February 5th. Born in the third century to a noble family in Sicily, Agatha was a very beautiful woman, She refused marriage proposals from many suitors having dedicated her life to God at a very early age."
-		},
-	      {	"id": 2,
-			"name": "St-Agatha",
-			"imgpath": "https://www.joblo.com/assets/images/joblo/posters/2018/12/St-Agatha-poster-1.jpg",
-			"overview": "Saint Agatha is the patron saint of breast cancer; her feast day is celebrated each year on February 5th. Born in the third century to a noble family in Sicily, Agatha was a very beautiful woman, She refused marriage proposals from many suitors having dedicated her life to God at a very early age."
-		}
-	      
-
-	]
+		"cast": [{
+				"cast_id": 0,
+				"character": "Dominic Toretto",
+				"credit_id": "553bb629c3a368784500aacb",
+				"id": 12835,
+				"name": "Vin Diesel",
+				"order": 0,
+				"profile_path": "/3RdYMTLoL1X16djGF52cFtJovDT.jpg"
+			},
+			{
+				"cast_id": 25,
+				"character": "Letty Ortiz",
+				"credit_id": "57a2a7a4c3a36832b80025c6",
+				"id": 17647,
+				"name": "Michelle Rodriguez",
+				"order": 1,
+				"profile_path": "/v37VK0MNuRuJOCKPKJcZAJXRA5r.jpg"
+			},
+			{
+				"cast_id": 1,
+				"character": "Luke Hobbs",
+				"credit_id": "553bb63fc3a368746200017c",
+				"id": 18918,
+				"name": "Dwayne Johnson",
+				"order": 2,
+				"profile_path": "/akweMz59qsSoPUJYe7QpjAc2rQp.jpg"
+			},
+			{
+				"cast_id": 12,
+				"character": "Deckard Shaw",
+				"credit_id": "5595cbda9251414e06000173",
+				"id": 976,
+				"name": "Jason Statham",
+				"order": 3,
+				"profile_path": "/PhWiWgasncGWD9LdbsGcmxkV4r.jpg"
+			},
+			{
+				"cast_id": 15,
+				"character": "Cipher",
+				"credit_id": "573fcbd3c3a36807400004f2",
+				"id": 6885,
+				"name": "Charlize Theron",
+				"order": 4,
+				"profile_path": "/4PLynhfkAa0WFUXd3frSpKtaG1V.jpg"
+			},
+			{
+				"cast_id": 21,
+				"character": "Frank Petty / Mr. Nobody",
+				"credit_id": "57a2a780c3a3686c1a00186d",
+				"id": 6856,
+				"name": "Kurt Russell",
+				"order": 5,
+				"profile_path": "/rlnFuNkisPpuypARI7QaGCmOY6V.jpg"
+			}
+		]
+	}
 }
